@@ -1,6 +1,6 @@
 EC2Utility
 
-Usages: you can turn ON or OFF you aws ec2 instances directly by a get request.
+Usages: you can turn ON or OFF you aws ec2 instances directly by a get request.<br/>
 Need: many time when we are away from laptop and we have to immediatly turn the EC2 off or on, we can use it by our mobile phone. :-)
 
 use below instructions after setting up go and aws cli
